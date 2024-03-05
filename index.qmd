@@ -184,7 +184,7 @@ Think of Pandoc as the "Swiss Army Knife" for converting documents between diffe
 
 * Type in a title
 * Type in your name as author
-* Choose and output document format
+* Choose an output document format
     - HTML is always a good place to start - **only need a browser to read the output `*.html` file.**
     - DOC usually works ok - **but you need MS Word or Open Office installed on your computer.**
     - PDF **NOTE: You need a TEX compiler on your computer** - Installing the `tinytex` [https://yihui.org/tinytex/](https://yihui.org/tinytex/) R package will work.
@@ -236,7 +236,7 @@ Think of Pandoc as the "Swiss Army Knife" for converting documents between diffe
 
 At the top is YAML (yet another markup language).
 
-This of this as metadata for your document. Usually at a minimum is Title, Author and format of document to be rendered.
+Think of this as "metadata" for your document. Usually, at a minimum, the YAML will include the Title, Author and format of document to be rendered.
 :::
 :::
 
@@ -262,7 +262,7 @@ This of this as metadata for your document. Usually at a minimum is Title, Autho
 ::: body-text-s
 **Example RMarkdown Template**
 
-The Rmarkdown document combines both R code and "marked-up" text. Here are 2 R code chunks highlighted.
+The Rmarkdown document combines both R code and "marked-up" text. Here are two R code chunks highlighted.
 
 Everything inside ` ```{r} ` down to ` ``` ` is R code. 
 :::
@@ -289,7 +289,7 @@ Everything inside ` ```{r} ` down to ` ``` ` is R code.
 ::: body-text-s
 **Example RMarkdown Template**
 
-Everything else that is not YAML and is not a code chunk is simple text with "mark-up" syntax added to format text as you would like.
+Everything else that is not YAML and is not a code chunk is simple text with "marked-up" syntax added to format the text as you would like.
 :::
 :::
 
