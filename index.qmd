@@ -361,6 +361,25 @@ The final rendered document as an HTML document (as viewed in a Browser).
 
 ---
 
+## {#open-discuss-demo data-menu-title="Open Discussion Q&A" background="#fee4ff"}
+
+[Open Discussion Q&A]{.slide-title}
+
+<hr>
+
+::: body-text
+
+* How have you recently used R?
+
+* What would you like to know how to do in R? (What are you currently trying to figure out)?
+
+* Ideas for Future Meetings? 
+    - [Meetup R_Ladies ATL Message Board - Topic: R-Ladies ATL - ideas for future meetings](https://www.meetup.com/rladies-atlanta/messages/boards/)
+
+:::
+
+---
+
 ##  {#end-page data-menu-title="Happy Reporting"}
 
 ::: {.slide-title .center-text}
